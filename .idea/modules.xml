@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-disc/eureka-disc.iml" filepath="$PROJECT_DIR$/eureka-disc/eureka-disc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam_project0.iml" filepath="$PROJECT_DIR$/exam_project0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immatriculation/immatriculation.iml" filepath="$PROJECT_DIR$/immatriculation/immatriculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infraction/infraction.iml" filepath="$PROJECT_DIR$/infraction/infraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radar/radar.iml" filepath="$PROJECT_DIR$/radar/radar.iml" />
+    </modules>
+  </component>
+</project>
